@@ -1,4 +1,4 @@
-#Quiz Game App w/ React, Vite, ESLint & Tailwind
+# Quiz Game App w/ React, Vite, ESLint & Tailwind
 
 ## About
 
